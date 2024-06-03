@@ -1,0 +1,98 @@
+.room_heading {
+    letter-spacing: 3px;
+    color: black;
+    display: flex;
+}
+
+.room_heading2 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.card {
+    /* width: 368px; */
+    border-radius: 5px;
+}
+
+.card-img-top {
+    width: 100%;
+}
+
+.text-muted span {
+    color: black !important;
+}
+
+.card-text {
+    color: gray;
+}
+
+.card-body {
+    position: relative;
+
+}
+
+.icons {
+    display: flex;
+    justify-content: end;
+    position: absolute;
+    bottom: 250px;
+    right: 0;
+
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(244, 244, 244);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px;
+}
+
+@media screen and (max-width:768px) {
+    .card {
+        width: 100%;
+    }
+
+    .icons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: -50px;
+        right: 0;
+        bottom: 300px;
+        text-align: center;
+    }
+
+    .icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .card-text {
+        font-size: 12px;
+    }
+
+}
+
+@media screen and (max-width:577px) {
+    .card {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
+@media screen and (max-width:425px) {
+    .card {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}

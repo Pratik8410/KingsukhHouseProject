@@ -1,0 +1,77 @@
+.hero {
+    width: 100%;
+    height: 100vh;
+    background: url(../../Assets/ayodhya.webp);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+    overflow-x: hidden;
+
+}
+
+/* .hero-text {
+    max-width: 800px;
+} */
+
+.hero_heading1 {
+    text-align: center;
+    color: rgb(209, 207, 207);
+}
+
+.hero_heading2 {
+    font-size: 64px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.hero_subdark {
+    color: #E82576;
+}
+
+.subhero {
+    height: 100px;
+    width: 80%;
+    background-color: #ffffff !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    margin-top: -50px;
+    z-index: 1;
+
+}
+
+.btn1 {
+    background-color: #E82576;
+    color: white;
+    padding: 10px 20px !important;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn1:hover {
+    background-color: #ba1a5d;
+}
+
+@media screen and (max-width:746px) {
+    .hero_heading2 {
+        font-size: 40px;
+    }
+
+}
+
+@media screen and (max-width:490px) {
+
+    .hero_heading2 {
+        font-size: 30px;
+    }
+
+    .hero {
+        width: 100%;
+    }
+}
