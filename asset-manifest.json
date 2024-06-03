@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/KingsukhHouseProject/static/css/main.207886ec.css",
+    "main.js": "/KingsukhHouseProject/static/js/main.0d9c5689.js",
+    "static/js/453.e8e72014.chunk.js": "/KingsukhHouseProject/static/js/453.e8e72014.chunk.js",
+    "static/media/out.jpg": "/KingsukhHouseProject/static/media/out.3f0345578753e5672b9b.jpg",
+    "static/media/flower.jpg": "/KingsukhHouseProject/static/media/flower.6ca69840b9c8e0d7cbcd.jpg",
+    "static/media/recep.jpg": "/KingsukhHouseProject/static/media/recep.0f616ee6d0575a5502b3.jpg",
+    "static/media/palash.webp": "/KingsukhHouseProject/static/media/palash.f542206031da97c86d08.webp",
+    "static/media/mithonDam.webp": "/KingsukhHouseProject/static/media/mithonDam.c652dcf8cb8fd3b68b44.webp",
+    "static/media/ayodhya.webp": "/KingsukhHouseProject/static/media/ayodhya.f15544cda482bc178192.webp",
+    "static/media/room1.jpg": "/KingsukhHouseProject/static/media/room1.7bb2016589e3a067e88c.jpg",
+    "static/media/small.jpg": "/KingsukhHouseProject/static/media/small.004ee162cd79856f18cc.jpg",
+    "static/media/large.jpg": "/KingsukhHouseProject/static/media/large.f6bdaca0cda5c1bc7251.jpg",
+    "static/media/baranti.webp": "/KingsukhHouseProject/static/media/baranti.54745f305a8ffb080bf3.webp",
+    "index.html": "/KingsukhHouseProject/index.html",
+    "main.207886ec.css.map": "/KingsukhHouseProject/static/css/main.207886ec.css.map",
+    "main.0d9c5689.js.map": "/KingsukhHouseProject/static/js/main.0d9c5689.js.map",
+    "453.e8e72014.chunk.js.map": "/KingsukhHouseProject/static/js/453.e8e72014.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.207886ec.css",
+    "static/js/main.0d9c5689.js"
+  ]
+}
